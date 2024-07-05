@@ -1,0 +1,15 @@
+# config file version
+apiVersion: 1
+
+datasources:
+  - name: Prometheus >> Monitoring
+    type: prometheus
+    # access: proxy
+    url: http://prometheus:9090
+    orgId: 1
+    isDefault: false
+    editable: false
+    basicAuth: true
+    basicAuthUser: elanza48
+    secureJsonData:
+      basicAuthPassword: elanza48_prometheus

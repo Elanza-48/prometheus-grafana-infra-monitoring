@@ -1,0 +1,4 @@
+
+basic_auth_users:
+    #password --> elanza48_prometheus
+    elanza48: $2a$10$2Dvxal3.Cf0hxpf/1r9..O57esZ.qqsb.wwmbeF4rSdcelgQLhm2S

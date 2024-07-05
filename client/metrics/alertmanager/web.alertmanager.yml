@@ -1,0 +1,3 @@
+basic_auth_users:
+    #password --> elanza48_prometheus_alertmanager
+    elanza48: $2a$10$uSpIez0AOFGXhES6JDVFo.FY1CjmLHiLRmQBQzBcs8JZm0lAr0CHS
